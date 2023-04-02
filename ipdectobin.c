@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 
 		binip[count] = decconvert(decip[count]);
 
-	printf("Binary IP: %d.%d.%d.%d\n", binip[0], binip[1], binip[2], binip[3]);
+	printf("Binary  IP:%d.%d.%d.%d\n", binip[0], binip[1], binip[2], binip[3]);
 	
 	return 0;
 
